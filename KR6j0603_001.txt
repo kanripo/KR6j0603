@@ -1,22 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:36:05.492501
+#+DATE: 2015-08-30 20:36:06.213717
 #+TITLE: 增慧陀羅尼經
 #+PROPERTY: CBETA_ID T21n1372
 #+PROPERTY: ID KR6j0603
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1372
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6j0603_T_000-0889b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0603_T_001-0889b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1372¶
-
- 增慧陀羅尼經¶
+No. 1372¶
+增慧陀羅尼經¶
 ¶
-西天譯經三藏朝散大夫試鴻臚卿¶
+三藏¶
 傳法大師臣施護奉　詔譯¶
 
 如是我聞。一時大慧菩薩住須彌山頂。爾時¶
