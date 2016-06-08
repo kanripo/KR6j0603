@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:36:05.991411
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:36
 #+TITLE: 增慧陀羅尼經
 #+PROPERTY: CBETA_ID T21n1372
 #+PROPERTY: ID KR6j0603
